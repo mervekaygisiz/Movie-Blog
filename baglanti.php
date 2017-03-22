@@ -4,7 +4,7 @@ $host = "127.0.0.1";
 
 $username = "root";
 
-$password = "mervezgi123";
+$password = ".....";
 
 
 $db = "proje";
